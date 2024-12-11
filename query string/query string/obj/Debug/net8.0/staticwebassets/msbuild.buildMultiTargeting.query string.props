@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\query string.props" />
+</Project>

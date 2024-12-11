@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gNveKR6cNZJI9m8JmVefBhJNqSer57pZslmsTfa4o/U=",
+  "Source": "myfirstapp",
+  "BasePath": "_content/myfirstapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

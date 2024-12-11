@@ -1,0 +1,29 @@
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\appsettings.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.staticwebassets.endpoints.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.exe
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.deps.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.runtimeconfig.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\bin\Debug\net8.0\http request header.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.AssemblyInfoInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.AssemblyInfo.cs
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.csproj.CoreCompileInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\scopedcss\bundle\http request header.styles.css
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets\msbuild.http request header.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets\msbuild.http request header.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets\msbuild.build.http request header.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.http request header.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.http request header.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\refint\http request header.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\http request header.genruntimeconfig.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\http request header\http request header\obj\Debug\net8.0\ref\http request header.dll

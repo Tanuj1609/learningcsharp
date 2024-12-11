@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "i4WNC4imvLyvmyPnWcvJzldNmO9WAV8DtZJWZyr7BsE=",
+  "Source": "http request header",
+  "BasePath": "_content/http request header",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
