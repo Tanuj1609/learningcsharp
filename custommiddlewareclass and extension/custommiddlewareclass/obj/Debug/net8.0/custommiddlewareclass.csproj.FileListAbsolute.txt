@@ -1,0 +1,39 @@
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\appsettings.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.staticwebassets.endpoints.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.exe
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.deps.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.runtimeconfig.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\bin\Debug\net8.0\custommiddlewareclass.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.AssemblyInfoInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.AssemblyInfo.cs
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.csproj.CoreCompileInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.sourcelink.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\scopedcss\bundle\custommiddlewareclass.styles.css
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets\msbuild.custommiddlewareclass.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets\msbuild.custommiddlewareclass.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets\msbuild.build.custommiddlewareclass.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.custommiddlewareclass.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.custommiddlewareclass.props
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\refint\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.genruntimeconfig.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass\custommiddlewareclass\obj\Debug\net8.0\ref\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.AssemblyInfoInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.AssemblyInfo.cs
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.csproj.CoreCompileInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.sourcelink.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\refint\custommiddlewareclass.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\custommiddlewareclass and extension\custommiddlewareclass\obj\Debug\net8.0\custommiddlewareclass.pdb
