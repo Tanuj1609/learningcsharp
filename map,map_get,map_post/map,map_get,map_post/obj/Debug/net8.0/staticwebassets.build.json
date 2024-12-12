@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5Ow9xIQB/T3MfoDLsOUKrHjqqpcTq6X2ulUPgMKwuak=",
+  "Source": "map,map_get,map_post",
+  "BasePath": "_content/map,map_get,map_post",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
