@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\useWhen_method_middlewares.props" />
+</Project>

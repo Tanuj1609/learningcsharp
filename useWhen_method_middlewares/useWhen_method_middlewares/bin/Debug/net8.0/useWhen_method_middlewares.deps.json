@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "useWhen_method_middlewares/1.0.0": {
+        "runtime": {
+          "useWhen_method_middlewares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "useWhen_method_middlewares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

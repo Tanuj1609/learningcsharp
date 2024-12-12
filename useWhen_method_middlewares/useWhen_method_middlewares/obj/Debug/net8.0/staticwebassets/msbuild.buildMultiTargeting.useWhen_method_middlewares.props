@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\useWhen_method_middlewares.props" />
+</Project>
