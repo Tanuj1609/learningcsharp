@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zoZlbKiKB3NBaLiUsU/VTdgWDc2wWQygs8NNvBbBjfA=",
+  "Source": "route_parameters_in_routing",
+  "BasePath": "_content/route_parameters_in_routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
