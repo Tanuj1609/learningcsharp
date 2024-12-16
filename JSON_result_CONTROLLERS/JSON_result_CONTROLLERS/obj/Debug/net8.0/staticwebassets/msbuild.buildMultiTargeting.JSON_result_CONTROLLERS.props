@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JSON_result_CONTROLLERS.props" />
+</Project>
