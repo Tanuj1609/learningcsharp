@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "hMwMC08hoVJH8Urn54kN2tbLGHzQ+4jYWaY/gQpcZRk=",
+  "Source": "creating_controller",
+  "BasePath": "_content/creating_controller",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "creating_controller\\wwwroot",
+      "Source": "creating_controller",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\creating_controller\\creating_controller\\wwwroot\\",
+      "BasePath": "_content/creating_controller",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
