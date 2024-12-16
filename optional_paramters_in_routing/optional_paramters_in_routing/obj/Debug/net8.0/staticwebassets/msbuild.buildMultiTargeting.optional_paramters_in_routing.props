@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\optional_paramters_in_routing.props" />
+</Project>
