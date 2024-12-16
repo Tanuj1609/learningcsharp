@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\content_result_CONTROLLERS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DA6C15-0ECF-492C-9785-C12E5070C046}|content_result_CONTROLLERS\\content_result_CONTROLLERS.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\content_result_controllers\\content_result_controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DA6C15-0ECF-492C-9785-C12E5070C046}|content_result_CONTROLLERS\\content_result_CONTROLLERS.csproj|solutionrelative:content_result_controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DA6C15-0ECF-492C-9785-C12E5070C046}|content_result_CONTROLLERS\\content_result_CONTROLLERS.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\content_result_controllers\\content_result_controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DA6C15-0ECF-492C-9785-C12E5070C046}|content_result_CONTROLLERS\\content_result_CONTROLLERS.csproj|solutionrelative:content_result_controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\content_result_CONTROLLERS\\content_result_CONTROLLERS\\HomeController.cs",
+              "RelativeDocumentMoniker": "content_result_CONTROLLERS\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\content_result_CONTROLLERS\\content_result_CONTROLLERS\\HomeController.cs*",
+              "RelativeToolTip": "content_result_CONTROLLERS\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:00:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\content_result_CONTROLLERS\\content_result_CONTROLLERS\\Program.cs",
+              "RelativeDocumentMoniker": "content_result_CONTROLLERS\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\content_result_CONTROLLERS\\content_result_CONTROLLERS\\Program.cs*",
+              "RelativeToolTip": "content_result_CONTROLLERS\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:59:38.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
