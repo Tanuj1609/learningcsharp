@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "endpoint_selection_in_routing/1.0.0": {
+        "runtime": {
+          "endpoint_selection_in_routing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "endpoint_selection_in_routing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

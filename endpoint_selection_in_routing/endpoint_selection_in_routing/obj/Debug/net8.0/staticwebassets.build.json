@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WndXjO1CmQAb2xY6AnCNhRYprG4zdg7392LGQIZBIxg=",
+  "Source": "endpoint_selection_in_routing",
+  "BasePath": "_content/endpoint_selection_in_routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

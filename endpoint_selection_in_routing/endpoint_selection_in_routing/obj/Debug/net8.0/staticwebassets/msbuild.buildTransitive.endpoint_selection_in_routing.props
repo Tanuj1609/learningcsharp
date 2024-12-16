@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\endpoint_selection_in_routing.props" />
+</Project>
