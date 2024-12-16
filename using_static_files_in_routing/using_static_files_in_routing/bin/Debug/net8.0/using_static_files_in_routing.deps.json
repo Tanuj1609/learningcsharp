@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "using_static_files_in_routing/1.0.0": {
+        "runtime": {
+          "using_static_files_in_routing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "using_static_files_in_routing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

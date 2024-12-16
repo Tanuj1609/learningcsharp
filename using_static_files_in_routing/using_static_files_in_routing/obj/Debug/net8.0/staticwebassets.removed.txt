@@ -1,0 +1,1 @@
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\using_static_files_in_routing\using_static_files_in_routing\wwwroot\staticontent.jpg

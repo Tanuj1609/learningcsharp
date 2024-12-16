@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "pDntc6TtF10Wd6oYXIeDAxzXu3f5rhEdsufY/xLK6jc=",
+  "Source": "using_static_files_in_routing",
+  "BasePath": "_content/using_static_files_in_routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "using_static_files_in_routing\\wwwroot",
+      "Source": "using_static_files_in_routing",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\using_static_files_in_routing\\using_static_files_in_routing\\wwwroot\\",
+      "BasePath": "_content/using_static_files_in_routing",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\using_static_files_in_routing\\using_static_files_in_routing\\wwwroot\\staticontent.jpg",
+      "SourceId": "using_static_files_in_routing",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\using_static_files_in_routing\\using_static_files_in_routing\\wwwroot\\",
+      "BasePath": "_content/using_static_files_in_routing",
+      "RelativePath": "staticontent#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o4aetfeloe",
+      "Integrity": "ONwQI1ekzHiezEURhlJ7vAWQJv8eaews8mae/lcQlqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\staticontent.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "staticontent.jpg",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\using_static_files_in_routing\\using_static_files_in_routing\\wwwroot\\staticontent.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ONwQI1ekzHiezEURhlJ7vAWQJv8eaews8mae/lcQlqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 12:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ONwQI1ekzHiezEURhlJ7vAWQJv8eaews8mae/lcQlqc="
+        }
+      ]
+    },
+    {
+      "Route": "staticontent.o4aetfeloe.jpg",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\using_static_files_in_routing\\using_static_files_in_routing\\wwwroot\\staticontent.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ONwQI1ekzHiezEURhlJ7vAWQJv8eaews8mae/lcQlqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 12:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o4aetfeloe"
+        },
+        {
+          "Name": "label",
+          "Value": "staticontent.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ONwQI1ekzHiezEURhlJ7vAWQJv8eaews8mae/lcQlqc="
+        }
+      ]
+    }
+  ]
+}
