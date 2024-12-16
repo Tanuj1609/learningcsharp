@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\default_parameters_in_routing.props" />
+</Project>
