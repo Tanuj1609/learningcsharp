@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\multiple_action_methods_in_controllers.props" />
+</Project>
