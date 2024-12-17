@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Model_binding_priorities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD2F09-2032-4047-A5D1-EDB80B836D4C}|Model_binding_priorities\\Model_binding_priorities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\model_binding_priorities\\model_binding_priorities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD2F09-2032-4047-A5D1-EDB80B836D4C}|Model_binding_priorities\\Model_binding_priorities.csproj|solutionrelative:model_binding_priorities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBD2F09-2032-4047-A5D1-EDB80B836D4C}|Model_binding_priorities\\Model_binding_priorities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\model_binding_priorities\\model_binding_priorities\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBD2F09-2032-4047-A5D1-EDB80B836D4C}|Model_binding_priorities\\Model_binding_priorities.csproj|solutionrelative:model_binding_priorities\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Model_binding_priorities\\Model_binding_priorities\\Program.cs",
+              "RelativeDocumentMoniker": "Model_binding_priorities\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Model_binding_priorities\\Model_binding_priorities\\Program.cs",
+              "RelativeToolTip": "Model_binding_priorities\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:41:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Model_binding_priorities\\Model_binding_priorities\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model_binding_priorities\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Model_binding_priorities\\Model_binding_priorities\\HomeController.cs",
+              "RelativeToolTip": "Model_binding_priorities\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:40:07.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
