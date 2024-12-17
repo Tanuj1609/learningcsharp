@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IActionResult_in_CONTROLLERS.props" />
+</Project>
