@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "/drT+xn9zhTTk6dhcGukHs62ipWzcGfHvjn5Xq3uT80=",
+  "Source": "File_result_in_controllers",
+  "BasePath": "_content/File_result_in_controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "File_result_in_controllers\\wwwroot",
+      "Source": "File_result_in_controllers",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\File_result_in_controllers\\File_result_in_controllers\\wwwroot\\",
+      "BasePath": "_content/File_result_in_controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\File_result_in_controllers\\File_result_in_controllers\\wwwroot\\dummypdf.pdf",
+      "SourceId": "File_result_in_controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\File_result_in_controllers\\File_result_in_controllers\\wwwroot\\",
+      "BasePath": "_content/File_result_in_controllers",
+      "RelativePath": "dummypdf#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "954d5nolbc",
+      "Integrity": "PfedNKu8qZMI55y5RGHBiTWCYE1oMppB/UvsGIXmrbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummypdf.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dummypdf.954d5nolbc.pdf",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\File_result_in_controllers\\File_result_in_controllers\\wwwroot\\dummypdf.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfedNKu8qZMI55y5RGHBiTWCYE1oMppB/UvsGIXmrbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 08:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "954d5nolbc"
+        },
+        {
+          "Name": "label",
+          "Value": "dummypdf.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfedNKu8qZMI55y5RGHBiTWCYE1oMppB/UvsGIXmrbQ="
+        }
+      ]
+    },
+    {
+      "Route": "dummypdf.pdf",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\File_result_in_controllers\\File_result_in_controllers\\wwwroot\\dummypdf.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PfedNKu8qZMI55y5RGHBiTWCYE1oMppB/UvsGIXmrbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 08:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PfedNKu8qZMI55y5RGHBiTWCYE1oMppB/UvsGIXmrbQ="
+        }
+      ]
+    }
+  ]
+}

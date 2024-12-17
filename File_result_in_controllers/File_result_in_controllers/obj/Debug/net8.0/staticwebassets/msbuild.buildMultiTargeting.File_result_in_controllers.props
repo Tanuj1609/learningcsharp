@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\File_result_in_controllers.props" />
+</Project>
