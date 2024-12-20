@@ -1,0 +1,45 @@
+﻿@using codeBlocks_and_expressions.Models
+@{
+    string appTitle = "Asp.net core demo app";
+    Person person = new Person()
+            {
+                Name = "John",
+                dateOfBirth = Convert.ToDateTime("2002-09-16"),
+                PersonGender = Person.Gender.Female
+            };
+}﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@appTitle</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Hello Thanos</h1>
+    <h2>This is the name: @person.Name, Entered by you</h2>
+    @if(person.dateOfBirth.HasValue){
+        double age = Math.Round((DateTime.Now - person.dateOfBirth).Value.TotalDays / 365.25);
+    
+    <h3>@age years old</h3>}
+    else {<h3>Date of birth is not being supplied</h3>}
+
+    @switch (person.PersonGender)
+    {
+        case Person.Gender.Male:
+            <p>November 19 is International Men's Day</p>
+            ;
+            break;
+
+        case Person.Gender.Female:
+            <p>March 8 is International Women's Day</p>
+            ;
+            break;
+
+        case Person.Gender.Others:
+            <p>March 31 is International Transgender's Day</p>
+            ; break;
+
+    }
+
+</body>
+</html>

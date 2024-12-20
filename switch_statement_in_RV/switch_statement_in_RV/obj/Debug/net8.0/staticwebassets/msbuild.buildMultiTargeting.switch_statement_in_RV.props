@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\switch_statement_in_RV.props" />
+</Project>
