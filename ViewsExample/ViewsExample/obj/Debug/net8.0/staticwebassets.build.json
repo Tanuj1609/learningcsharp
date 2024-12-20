@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "nPQEVaLTSQEKcNasUGRtAvZhKTgxPSwFBs6XrATfZ6w=",
+  "Source": "ViewsExample",
+  "BasePath": "_content/ViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewsExample\\wwwroot",
+      "Source": "ViewsExample",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\wwwroot\\",
+      "BasePath": "_content/ViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
