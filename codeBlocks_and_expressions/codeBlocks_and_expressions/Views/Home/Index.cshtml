@@ -1,0 +1,20 @@
+﻿@using codeBlocks_and_expressions.Models
+@{
+    string appTitle = "Asp.net core demo app";
+    Person person = new Person()
+            {
+                Name = "John",
+                dateOfBirth = Convert.ToDateTime("2002-09-16")
+            };
+}﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@appTitle</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Hello Thanos</h1>
+    <h2>This is the name: @person.Name, Entered by you</h2>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\codeBlocks_and_expressions.props" />
+</Project>

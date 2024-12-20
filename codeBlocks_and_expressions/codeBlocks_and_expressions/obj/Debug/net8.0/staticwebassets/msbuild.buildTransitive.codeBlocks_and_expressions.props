@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\codeBlocks_and_expressions.props" />
+</Project>

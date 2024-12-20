@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\codeblocks_and_expressions\\codeblocks_and_expressions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|solutionrelative:codeblocks_and_expressions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\codeblocks_and_expressions\\codeblocks_and_expressions\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|solutionrelative:codeblocks_and_expressions\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\codeblocks_and_expressions\\codeblocks_and_expressions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|solutionrelative:codeblocks_and_expressions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\codeblocks_and_expressions\\codeblocks_and_expressions\\codeblocks_and_expressions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|solutionrelative:codeblocks_and_expressions\\codeblocks_and_expressions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\codeblocks_and_expressions\\codeblocks_and_expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2138FAC1-9244-4A0B-8BA2-F4CFE87CE119}|codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj|solutionrelative:codeblocks_and_expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "codeBlocks_and_expressions\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Models\\Person.cs*",
+              "RelativeToolTip": "codeBlocks_and_expressions\\Models\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:21:52.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "codeBlocks_and_expressions",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj",
+              "RelativeDocumentMoniker": "codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj*",
+              "RelativeToolTip": "codeBlocks_and_expressions\\codeBlocks_and_expressions.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T14:21:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "codeBlocks_and_expressions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "codeBlocks_and_expressions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:16:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "codeBlocks_and_expressions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "codeBlocks_and_expressions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T14:14:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Program.cs",
+              "RelativeDocumentMoniker": "codeBlocks_and_expressions\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\Program.cs",
+              "RelativeToolTip": "codeBlocks_and_expressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:13:51.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

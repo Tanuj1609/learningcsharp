@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Ids6ccJOR8tnaE8uW37dwYL3avigBhaBhfOo7w7sUYc=",
+  "Source": "codeBlocks_and_expressions",
+  "BasePath": "_content/codeBlocks_and_expressions",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "codeBlocks_and_expressions\\wwwroot",
+      "Source": "codeBlocks_and_expressions",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\codeBlocks_and_expressions\\codeBlocks_and_expressions\\wwwroot\\",
+      "BasePath": "_content/codeBlocks_and_expressions",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
