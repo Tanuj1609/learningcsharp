@@ -1,0 +1,34 @@
+﻿@using codeBlocks_and_expressions.Models
+@{
+    string appTitle = "Asp.Net Core Demo App";
+    List<Person> people = new List<Person>()
+    {
+        new Person() { Name = "Tan", dateOfBirth = DateTime.Parse("2000-05-06"), PersonGender = Person.Gender.Male},
+        new Person() { Name = "Krish", dateOfBirth = DateTime.Parse("2005-01-09"), PersonGender = Person.Gender.Female},
+        new Person() { Name = "Sudh", dateOfBirth = DateTime.Parse("2008-07-12"), PersonGender = Person.Gender.Others}
+    };
+}﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@appTitle</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Hello Thanos</h1>
+    @for (int i = 0; i < 2; i++)
+    {
+        Person person = people[i];
+        <div>
+            @person.Name
+            <span>, </span>
+            <span>@person.PersonGender</span>
+            @if (person.dateOfBirth != null)
+            {
+                <span>@person.dateOfBirth.Value.ToString("MM/dd/yyyy")</span>
+            }
+        </div>
+    }
+
+</body>
+</html>
