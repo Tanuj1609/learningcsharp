@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\if_and_ifelse_in_views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8063094F-0D7E-48D0-A03C-ADD604CEDFF0}|if_and_ifelse_in_views\\if_and_ifelse_in_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\if_and_ifelse_in_views\\if_and_ifelse_in_views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8063094F-0D7E-48D0-A03C-ADD604CEDFF0}|if_and_ifelse_in_views\\if_and_ifelse_in_views.csproj|solutionrelative:if_and_ifelse_in_views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\if_and_ifelse_in_views\\if_and_ifelse_in_views\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "if_and_ifelse_in_views\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\if_and_ifelse_in_views\\if_and_ifelse_in_views\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "if_and_ifelse_in_views\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T14:40:56.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\if_and_ifelse_in_views.props" />
+</Project>
