@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\foreach_in_RV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAF8980-9F30-4FD5-9093-54C1EF067808}|foreach_in_RV\\foreach_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\foreach_in_rv\\foreach_in_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BAF8980-9F30-4FD5-9093-54C1EF067808}|foreach_in_RV\\foreach_in_RV.csproj|solutionrelative:foreach_in_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\foreach_in_RV\\foreach_in_RV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "foreach_in_RV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\foreach_in_RV\\foreach_in_RV\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "foreach_in_RV\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:08:02.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
