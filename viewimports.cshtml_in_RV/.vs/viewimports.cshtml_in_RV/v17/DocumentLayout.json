@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\views\\products\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\views\\products\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_rv\\viewimports.cshtml_in_rv\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170C2DCA-9E1A-4CEB-B6C3-53223D7AC997}|viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV.csproj|solutionrelative:viewimports.cshtml_in_rv\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:13:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Products\\All.cshtml",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Views\\Products\\All.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Products\\All.cshtml",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Views\\Products\\All.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:10:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:05:36.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\details.cshtml",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Views\\Home\\details.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\details.cshtml",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Views\\Home\\details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:04:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "viewimports.cshtml_in_RV\\Views\\Home\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\viewimports.cshtml_in_RV\\viewimports.cshtml_in_RV\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeToolTip": "viewimports.cshtml_in_RV\\Views\\Home\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:03:41.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
