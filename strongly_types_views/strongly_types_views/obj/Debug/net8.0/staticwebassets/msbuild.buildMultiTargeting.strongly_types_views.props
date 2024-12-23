@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\strongly_types_views.props" />
+</Project>
