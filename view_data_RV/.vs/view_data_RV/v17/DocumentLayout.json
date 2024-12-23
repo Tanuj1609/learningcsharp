@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\view_data_rv\\view_data_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|solutionrelative:view_data_rv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\view_data_rv\\view_data_rv\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|solutionrelative:view_data_rv\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\view_data_rv\\view_data_rv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750F8F00-5EDB-45B1-880C-ABD7820DD0E1}|view_data_RV\\view_data_RV.csproj|solutionrelative:view_data_rv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "view_data_RV\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Models\\Person.cs",
+              "RelativeToolTip": "view_data_RV\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:47:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "view_data_RV\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "view_data_RV\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:14:59.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "view_data_RV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\view_data_RV\\view_data_RV\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "view_data_RV\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T20:13:57.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
