@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Layout_views_for_multiple_views/1.0.0": {
+        "runtime": {
+          "Layout_views_for_multiple_views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Layout_views_for_multiple_views/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

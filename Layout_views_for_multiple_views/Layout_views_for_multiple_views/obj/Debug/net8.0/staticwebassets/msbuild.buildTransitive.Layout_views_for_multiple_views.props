@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Layout_views_for_multiple_views.props" />
+</Project>

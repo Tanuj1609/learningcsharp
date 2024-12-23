@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\views\\products\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\views\\products\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\layout_views_for_multiple_views\\layout_views_for_multiple_views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A061538-9F0D-4EC9-9CA8-E39BD72116C3}|Layout_views_for_multiple_views\\Layout_views_for_multiple_views.csproj|solutionrelative:layout_views_for_multiple_views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Order.cshtml",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Views\\Products\\Order.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Order.cshtml",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Views\\Products\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:17:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Views\\Products\\Search.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:16:55.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:15:59.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:15:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:14:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:12:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Layout_views_for_multiple_views\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Layout_views_for_multiple_views\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T23:12:21.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

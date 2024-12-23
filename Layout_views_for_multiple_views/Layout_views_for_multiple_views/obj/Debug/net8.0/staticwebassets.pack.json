@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Layout_views_for_multiple_views.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Layout_views_for_multiple_views.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Layout_views_for_multiple_views.props",
+      "PackagePath": "build\\Layout_views_for_multiple_views.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Layout_views_for_multiple_views.props",
+      "PackagePath": "buildMultiTargeting\\Layout_views_for_multiple_views.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Layout_views_for_multiple_views.props",
+      "PackagePath": "buildTransitive\\Layout_views_for_multiple_views.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

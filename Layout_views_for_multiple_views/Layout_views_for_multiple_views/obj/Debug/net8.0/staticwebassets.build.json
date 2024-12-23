@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "IWyXo9urVFW+G6g2rolaACUrzA4j+jvzeDms8brCkPs=",
+  "Source": "Layout_views_for_multiple_views",
+  "BasePath": "_content/Layout_views_for_multiple_views",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Layout_views_for_multiple_views\\wwwroot",
+      "Source": "Layout_views_for_multiple_views",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\",
+      "BasePath": "_content/Layout_views_for_multiple_views",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\StyleSheet.css",
+      "SourceId": "Layout_views_for_multiple_views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\",
+      "BasePath": "_content/Layout_views_for_multiple_views",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5uu26jy5yf",
+      "Integrity": "nVrbeyM/cs8p/LWaudItWJzJ1xm2uQqOO78QwjFCO1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.5uu26jy5yf.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVrbeyM/cs8p/LWaudItWJzJ1xm2uQqOO78QwjFCO1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 20:25:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5uu26jy5yf"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVrbeyM/cs8p/LWaudItWJzJ1xm2uQqOO78QwjFCO1A="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Layout_views_for_multiple_views\\Layout_views_for_multiple_views\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVrbeyM/cs8p/LWaudItWJzJ1xm2uQqOO78QwjFCO1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 20:25:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVrbeyM/cs8p/LWaudItWJzJ1xm2uQqOO78QwjFCO1A="
+        }
+      ]
+    }
+  ]
+}
