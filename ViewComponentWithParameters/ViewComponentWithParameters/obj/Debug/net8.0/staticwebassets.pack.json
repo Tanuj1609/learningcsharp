@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewComponentWithParameters\\ViewComponentWithParameters\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ViewComponentWithParameters.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ViewComponentWithParameters.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ViewComponentWithParameters.props",
+      "PackagePath": "build\\ViewComponentWithParameters.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ViewComponentWithParameters.props",
+      "PackagePath": "buildMultiTargeting\\ViewComponentWithParameters.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ViewComponentWithParameters.props",
+      "PackagePath": "buildTransitive\\ViewComponentWithParameters.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
