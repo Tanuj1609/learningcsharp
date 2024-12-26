@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewdatawithviewcomponents\\viewdatawithviewcomponents\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|solutionrelative:viewdatawithviewcomponents\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewdatawithviewcomponents\\viewdatawithviewcomponents\\models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|solutionrelative:viewdatawithviewcomponents\\models\\persongridmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewdatawithviewcomponents\\viewdatawithviewcomponents\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|solutionrelative:viewdatawithviewcomponents\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewdatawithviewcomponents\\viewdatawithviewcomponents\\viewcomponent\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|solutionrelative:viewdatawithviewcomponents\\viewcomponent\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\viewdatawithviewcomponents\\viewdatawithviewcomponents\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7509CC76-8E27-41D9-A219-4B229FE00881}|ViewDataWithViewComponents\\ViewDataWithViewComponents.csproj|solutionrelative:viewdatawithviewcomponents\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewDataWithViewComponents\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewDataWithViewComponents\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:59:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "RelativeDocumentMoniker": "ViewDataWithViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "RelativeToolTip": "ViewDataWithViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T19:56:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewDataWithViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "RelativeToolTip": "ViewDataWithViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:52:35.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonGridModel.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Models\\PersonGridModel.cs",
+              "RelativeDocumentMoniker": "ViewDataWithViewComponents\\Models\\PersonGridModel.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Models\\PersonGridModel.cs",
+              "RelativeToolTip": "ViewDataWithViewComponents\\Models\\PersonGridModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:50:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ViewDataWithViewComponents\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewDataWithViewComponents\\ViewDataWithViewComponents\\Models\\Person.cs",
+              "RelativeToolTip": "ViewDataWithViewComponents\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:48:37.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
