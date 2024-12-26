@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\StronglyTypedViewComponents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ED6D40-B85E-491A-879A-468E431EE303}|StronglyTypedViewComponents\\StronglyTypedViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\stronglytypedviewcomponents\\stronglytypedviewcomponents\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8ED6D40-B85E-491A-879A-468E431EE303}|StronglyTypedViewComponents\\StronglyTypedViewComponents.csproj|solutionrelative:stronglytypedviewcomponents\\views\\shared\\components\\grid\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ED6D40-B85E-491A-879A-468E431EE303}|StronglyTypedViewComponents\\StronglyTypedViewComponents.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\stronglytypedviewcomponents\\stronglytypedviewcomponents\\viewcomponent\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8ED6D40-B85E-491A-879A-468E431EE303}|StronglyTypedViewComponents\\StronglyTypedViewComponents.csproj|solutionrelative:stronglytypedviewcomponents\\viewcomponent\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sample.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\StronglyTypedViewComponents\\StronglyTypedViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\StronglyTypedViewComponents\\StronglyTypedViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml*",
+              "RelativeToolTip": "StronglyTypedViewComponents\\Views\\Shared\\Components\\Grid\\Sample.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T20:09:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\StronglyTypedViewComponents\\StronglyTypedViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewComponents\\ViewComponent\\GridViewComponent.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\StronglyTypedViewComponents\\StronglyTypedViewComponents\\ViewComponent\\GridViewComponent.cs*",
+              "RelativeToolTip": "StronglyTypedViewComponents\\ViewComponent\\GridViewComponent.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:08:11.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
