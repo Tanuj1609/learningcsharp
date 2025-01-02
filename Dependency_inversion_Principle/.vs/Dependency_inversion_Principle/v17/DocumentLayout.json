@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\dependency_inversion_principle\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|solutionrelative:dependency_inversion_principle\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\dependency_inversion_principle\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|solutionrelative:dependency_inversion_principle\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F93D0A1-92B2-4913-8D03-975E4CCC6164}|Services\\Services.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F93D0A1-92B2-4913-8D03-975E4CCC6164}|Services\\Services.csproj|solutionrelative:services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\dependency_inversion_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|solutionrelative:dependency_inversion_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\dependency_inversion_principle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E17AB1F-1107-4CFB-9153-1440096861A2}|Dependency_inversion_Principle\\Dependency_inversion_Principle.csproj|solutionrelative:dependency_inversion_principle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C5E11D-BEE1-4EEB-BE10-50BBE711CF8C}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\dependency_inversion_principle\\servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C5E11D-BEE1-4EEB-BE10-50BBE711CF8C}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dependency_inversion_Principle\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dependency_inversion_Principle\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T04:23:39.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Dependency_inversion_Principle\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Dependency_inversion_Principle\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T04:22:37.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency_inversion_Principle\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Program.cs",
+              "RelativeToolTip": "Dependency_inversion_Principle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:05:51.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dependency_inversion_Principle\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Dependency_inversion_Principle\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dependency_inversion_Principle\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:42:06.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:36.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Services\\CitiesService.cs",
+              "RelativeDocumentMoniker": "Services\\CitiesService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\Dependency_inversion_Principle\\Services\\CitiesService.cs",
+              "RelativeToolTip": "Services\\CitiesService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:40:34.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

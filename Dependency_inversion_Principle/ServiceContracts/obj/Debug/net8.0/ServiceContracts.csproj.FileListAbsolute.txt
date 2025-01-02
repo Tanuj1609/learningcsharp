@@ -1,0 +1,12 @@
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\Dependency_inversion_Principle\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
