@@ -1,0 +1,6 @@
+{
+    "weatherapi": {
+        "ClientId": "ClientId from appsettings.JSOn",
+        "ClientSecret": "ClientSecret from appsettings.json"
+    }
+}
