@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "UdKUY5RiBfQ4A+9Bvx3gGD3XsduG0ZIT+61FiDaY0oo=",
+  "Source": "CRUDExample",
+  "BasePath": "_content/CRUDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDExample\\wwwroot",
+      "Source": "CRUDExample",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ag7o75518u",
+      "Integrity": "umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48y08845bh",
+      "Integrity": "RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\Logo.png.png",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Logo.png#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7agmk74poe",
+      "Integrity": "74vr/l/ZMtokLs4fVUOI61ksXBFN7McvwiF9IUk8dYA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logo.png.png"
+    },
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zsgxx0ffs5",
+      "Integrity": "U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "jquery.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.min.ag7o75518u.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.unobtrusive.min.48y08845bh.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48y08845bh"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 22:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "Logo.png.7agmk74poe.png",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\Logo.png.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"74vr/l/ZMtokLs4fVUOI61ksXBFN7McvwiF9IUk8dYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 23:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7agmk74poe"
+        },
+        {
+          "Name": "label",
+          "Value": "Logo.png.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-74vr/l/ZMtokLs4fVUOI61ksXBFN7McvwiF9IUk8dYA="
+        }
+      ]
+    },
+    {
+      "Route": "Logo.png.png",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\Logo.png.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"74vr/l/ZMtokLs4fVUOI61ksXBFN7McvwiF9IUk8dYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 23:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-74vr/l/ZMtokLs4fVUOI61ksXBFN7McvwiF9IUk8dYA="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 18:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.zsgxx0ffs5.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 18:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsgxx0ffs5"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0="
+        }
+      ]
+    }
+  ]
+}
