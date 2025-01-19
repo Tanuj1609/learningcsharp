@@ -1,0 +1,161 @@
+﻿@model PersonAddRequest
+@{
+    ViewBag.Title = "Create Person";
+}
+
+<a asp-controller="Persons" asp-action="Index" class="link-hover">Back to Persons List</a>
+<h2>Create Person</h2>
+
+<div class="center-box">
+    <form asp-controller="Persons" asp-action="Create" method="post">
+
+        @*PersonName*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="PersonName" class="form-label pt">Person Name</label>
+            </div>
+            <div class="flex-1">
+                
+
+                @*USING TAG HELPER FOR EASY, BY DEFAULT THE DATA TYPE IS TEXT, IF ANY OTHER THEN EITHER SPECIFY IT HERE OR IN THE MODEL CLASS*@
+                <input asp-for="PersonName" class="form-input" />
+
+                @*THIS ASP VALIDATION FOR IS A TAG HELPER THAT SHOWS ERROR MESSAGES FOR FAILED PERSON_NAME VALIDATION TO CLIENTS IN CLIENT SIDE VALIDATION*@
+                <span asp-validation-for="PersonName" class="text-red"></span>
+                
+           
+            </div>
+        </div>
+
+
+        @*Email*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Email" class="form-label pt">Email</label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="Email" class="form-input" />
+                <span asp-validation-for="Email" class="text-red"></span>
+            </div>
+        </div>
+
+        @*DateOfBirth*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="DateOfBirth" class="form-label pt">Date of Birth</label>
+            </div>
+            <div class="flex-1">
+                <input type="date" asp-for="DateOfBirth" class="form-input" />
+                @*HERE WE SUPPLIED DATE OF BIRTH TYPE MANUALLY INSTEAD OF DECLARING IT IN THE MODEL CLASS VALIDATIONS*@
+
+                <span asp-validation-for="DateOfBirth" class="text-red"></span>
+
+            </div>
+        </div>
+
+        @*Gender*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label class="form-label">Gender</label>
+            </div>
+            <div class="flex-1">
+                <input type="radio" id="Male" name="Gender" value="Male" />
+                <label for="Male">Male</label>
+
+                <input type="radio" id="Female" name="Gender" value="Female" class="ml" />
+                <label for="Female">Female</label>
+
+                <input type="radio" id="Other" name="Gender" value="Other" class="ml" />
+                <label for="Other">Other</label>
+
+
+                @*THIS ASP VALIDATION FOR IS A TAG HELPER THAT SHOWS ERROR MESSAGES TO CLIENTS IN CLIENT SIDE VALIDATION*@
+                <span asp-validation-for="Gender" class="text-red"></span>
+            </div>
+        </div>
+
+        @*Country*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label class="form-label" asp-for="CountryID">Country</label>
+            </div>
+            <div class="flex-1">
+                
+                @*HERE THE ASP-ITEMS TAG HEPLER IS BEING USED TO REPLACE THE FOREACH LOOP BY USING THE SELECTLISTITEM() WITHIN THE CONTROLLER FOR PASSING DATA*@
+                <select asp-for="CountryID" class="form-input" asp-items="@ViewBag.Countries">
+                    <option value="">Please Select</option>
+                </select>
+
+                @*THIS ASP VALIDATION FOR IS A TAG HELPER THAT SHOWS ERROR MESSAGES FOR FAILED COUNTRY NAME TO CLIENTS IN CLIENT SIDE VALIDATION*@
+                <span asp-validation-for="CountryID" class="text-red"></span>
+            </div>
+        </div>
+
+
+        @*Address*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Address" class="form-label pt">Address</label>
+            </div>
+            <div class="flex-1">
+                <textarea asp-for="Address" class="form-input"></textarea>
+                <span asp-validation-for="Address" class="text-red"></span>
+            </div>
+        </div>
+
+        @*ReceiveNewsLetters*@
+        <div class="form-field flex">
+            <div class="w-25">
+            </div>
+            <div class="flex-1">
+                <input asp-for="RecieveNewsLetters" value="true" />
+                <label asp-for="RecieveNewsLetters" class="form-label">Receive News Letters</label>
+                <span asp-validation-for="RecieveNewsLetters" class="text-red"></span>
+            </div>
+        </div>
+
+        @*Submit*@
+        <div class="form-field flex">
+            <div class="w-25">
+            </div>
+            <div class="flex-1">
+                <button class="button button-green-back">Create</button>
+
+                @if (ViewBag.Errors != null)
+                {
+                    <div class="text-red ml">
+                        <ul>
+                            @foreach (string error in ViewBag.Errors)
+                            {
+                                <li class="ml">@error</li>
+                            }
+                        </ul>
+                    </div>
+                }
+            </div>
+        </div>
+
+    </form>
+</div>
+@*-BELOW JQUERY FILES ARE USED FOR THE CLIENT SIDE VERIFICATION
+    -USERS CAN GET INSTANT FEEDBACKS ON THEIR INPUTS WITHOUT WAITING FOR THE SERVERRESPONSE
+    - THESE REDUCE THE LOAD ON SERVER HAS ENHANCING THE PERFORMANCE
+
+    -FOR EXAMPLE IF SOMEONE ENTERS WRONG FORMAT OF EMAIL, IT WILL SHOW RED LINE BELOW THE WRONG EMAIL IN GUI OR BROWSER SIDE
+
+    -MIGHT CAUSE APPLICATION LOAD FAIL, IF THESE FILES DOESN'T GET LOADED
+    -SO IT IS BETTER TO USE OFFLINE FALLBACK COPIES(FOR THAT USE SCRIPT TAG HELPER)
+    -CAN'T ALWAYS DEPEND ON ONLINE JS FILES
+*@
+@*THE FILE BELOW IS USED AS A CACHED FILE SO THAT THE BROWSER DOES NOT HAVE TO MAKE REQUESTS AGAIN AND AGAIN AND CAN USE THE CACHED VERSION*@
+
+@section scripts{ 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" asp-fallback-test="window.jQuery" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer" asp-fallback-src="~/jquery.min"></script>">
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.21.0/jquery.validate.min.js" asp-fallback-test="window.jQuery.validator" integrity="sha512-KFHXdr2oObHKI9w4Hv1XPKc898mE4kgYx58oqsc/JqqdLMDI4YjOLzom+EMlW8HFUd0QfjfAvxSL6sEq/a42fQ==" crossorigin="anonymous" referrerpolicy="no-referrer" asp-fallback-src="~/jquery.validate.min"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" asp-fallback-test="window.jQuery.validator.unobtrusive"
+integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer" asp-fallback-src="~/jquery.validate.unobtrusive.min"></script>
+}

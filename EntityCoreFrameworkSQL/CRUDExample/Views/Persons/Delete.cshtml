@@ -1,0 +1,67 @@
+﻿@model PersonResponse   
+@{
+    ViewBag.Title = "Delete Person";
+}
+
+<a asp-controller="Persons" asp-action="Index" class="link-hover">Back to Persons List</a>
+<h2>Delete Person</h2>
+<h3>Are you sure that you want to delete the person details?</h3>
+
+<div class="center-box">
+    <form asp-controller="Persons" asp-action="Delete" method="post">
+
+        @*PersonName*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="PersonName" class="form-label pt">Person Name</label>
+            </div>
+            <div class="flex-1">
+                
+
+                @*USING TAG HELPER FOR EASY, BY DEFAULT THE DATA TYPE IS TEXT, IF ANY OTHER THEN EITHER SPECIFY IT HERE OR IN THE MODEL CLASS*@
+                <input asp-for="PersonName" class="form-input" disabled="disabled" />
+
+                @*THIS ASP VALIDATION FOR IS A TAG HELPER THAT SHOWS ERROR MESSAGES FOR FAILED PERSON_NAME VALIDATION TO CLIENTS IN CLIENT SIDE VALIDATION*@
+                <span asp-validation-for="PersonName" class="text-red"></span>
+                
+           
+            </div>
+        </div>
+
+
+        @*Email*@
+        <div class="form-field flex">
+            <div class="w-25">
+                <label asp-for="Email" class="form-label pt">Email</label>
+            </div>
+            <div class="flex-1">
+                <input asp-for="Email" class="form-input" disabled="disabled"/>
+                <span asp-validation-for="Email" class="text-red"></span>
+            </div>
+        </div>
+
+        
+
+        @*Submit*@
+        <div class="form-field flex">
+            <div class="w-25">
+            </div>
+            <div class="flex-1">
+                <button class="button button-red-back">Delete</button>
+
+                @if (ViewBag.Errors != null)
+                {
+                    <div class="text-red ml">
+                        <ul>
+                            @foreach (string error in ViewBag.Errors)
+                            {
+                                <li class="ml">@error</li>
+                            }
+                        </ul>
+                    </div>
+                }
+            </div>
+        </div>
+
+    </form>
+</div>
