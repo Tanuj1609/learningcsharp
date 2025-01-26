@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudtest\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|solutionrelative:crudtest\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1650F9B6-0DA1-42C9-AEDA-4DE25CB8070D}|Services\\Services.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1650F9B6-0DA1-42C9-AEDA-4DE25CB8070D}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1650F9B6-0DA1-42C9-AEDA-4DE25CB8070D}|Services\\Services.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1650F9B6-0DA1-42C9-AEDA-4DE25CB8070D}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206539DC-58D5-4FB2-87F2-868170690559}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206539DC-58D5-4FB2-87F2-868170690559}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ipersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudtest\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|solutionrelative:crudtest\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1A970C-D8B1-476B-9DC4-2AE4A8EA8ECD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\countriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\icountriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F876AD0-3EF9-46E0-9A21-3C805875A83A}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudtest\\crudtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D2B1417-7BC7-4B1C-9287-6D04701C9CD0}|CRUDTest\\CRUDTest.csproj|solutionrelative:crudtest\\crudtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206539DC-58D5-4FB2-87F2-868170690559}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206539DC-58D5-4FB2-87F2-868170690559}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\advancedunittesting\\crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\PersonsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\PersonsRepository.cs",
+              "RelativeToolTip": "Repositories\\PersonsRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:19:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T09:16:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\CountriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountriesRepository.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Repositories\\CountriesRepository.cs",
+              "RelativeToolTip": "Repositories\\CountriesRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:09:45.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeDocumentMoniker": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeToolTip": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T08:31:21.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IPersonsRepository.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\IPersonsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IPersonsRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:31:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICountriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ICountriesRepository.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\RepositoryContracts\\ICountriesRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ICountriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:29:11.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CRUDTest.csproj",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\CRUDTest.csproj",
+              "RelativeDocumentMoniker": "CRUDTest\\CRUDTest.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\CRUDTest.csproj",
+              "RelativeToolTip": "CRUDTest\\CRUDTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T22:05:54.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwA8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:37:58.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\PersonsServiceTest.cs*",
+              "RelativeToolTip": "CRUDTest\\PersonsServiceTest.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwH0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:40:14.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDTest\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTest\\CountriesServiceTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:41:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:36:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T06:00:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:39:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:48:22.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAowJ8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:44:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:37:41.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\ServiceContracts\\IPersonsService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonsService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\ServiceContracts\\IPersonsService.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:36:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Services\\PersonsService.cs*",
+              "RelativeToolTip": "Services\\PersonsService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:33:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:39:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonsPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\AdvancedUnitTesting\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T07:45:08.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAuwJcBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-20T05:47:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Persons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-19T21:09:43.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Persons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-19T08:12:10.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

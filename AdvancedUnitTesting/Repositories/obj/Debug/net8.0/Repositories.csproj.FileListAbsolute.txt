@@ -1,0 +1,6 @@
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\TanujTewatia\Desktop\learning\aspdotnetcore\AdvancedUnitTesting\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
