@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\citiesmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\citiesmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\citiesmanagersolution\\citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC4155E-867C-409C-BB93-FB530C898AC9}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Program.cs*",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:44:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\appsettings.json",
+              "RelativeToolTip": "CitiesManager.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T07:39:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:31:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Models\\City.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Models\\City.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:29:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitiesManager.WebAPI",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+              "RelativeToolTip": "CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T07:28:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T07:22:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:21:03.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
