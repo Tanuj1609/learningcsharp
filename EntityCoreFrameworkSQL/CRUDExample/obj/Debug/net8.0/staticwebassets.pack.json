@@ -1,23 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\Logo.png.png",
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Logo.png.png",
       "PackagePath": "staticwebassets\\Logo.png.png"
     },
     {
-      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
-      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.min.js",
       "PackagePath": "staticwebassets\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
     },
     {

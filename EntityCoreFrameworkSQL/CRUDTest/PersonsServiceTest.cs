@@ -26,7 +26,7 @@ namespace CRUDTest
         {
             _countriesService = new CountriesService(new PersonsDbContext(new DbContextOptionsBuilder<PersonsDbContext>().Options));
             _personsService = new PersonsService(new PersonsDbContext(new DbContextOptionsBuilder<PersonsDbContext>().Options), _countriesService);
-            
+
             _testOutputHelper = testOutputHelper;
         }
 
@@ -474,9 +474,9 @@ namespace CRUDTest
                 _testOutputHelper.WriteLine(person_response_from_add.ToString());
             }
 
-            List<PersonResponse> allPersons = _personsService.GetAllPersons();  
+            List<PersonResponse> allPersons = _personsService.GetAllPersons();
             //Act
-            List<PersonResponse> persons_list_from_sort = _personsService.GetSortedPersons(allPersons,nameof(Person.PersonName), SortOrderOptions.DESC);
+            List<PersonResponse> persons_list_from_sort = _personsService.GetSortedPersons(allPersons, nameof(Person.PersonName), SortOrderOptions.DESC);
 
             //print person_response_list_from_get
             _testOutputHelper.WriteLine("Actual:");
@@ -488,9 +488,9 @@ namespace CRUDTest
             person_response_list_from_add = person_response_list_from_add.OrderByDescending(temp => temp.PersonName).ToList();
 
             //Assert
-            for(int i=0; i< person_response_list_from_add.Count; i++)
+            for (int i = 0; i < person_response_list_from_add.Count; i++)
             {
-                Assert.Equal(person_response_list_from_add[i], persons_list_from_sort[i]);  
+                Assert.Equal(person_response_list_from_add[i], persons_list_from_sort[i]);
             }
         }
 
@@ -512,7 +512,7 @@ namespace CRUDTest
                 _personsService.UpdatePerson(person_update_request);
             });
 
-            
+
         }
 
 
@@ -583,7 +583,7 @@ namespace CRUDTest
             {
                 PersonName = "John",
                 CountryID = country_response_from_add.CountryID,
-                Email ="john@example.com"
+                Email = "john@example.com"
             };
 
             PersonResponse person_response_from_add = _personsService.AddPerson(person_add_request);
@@ -636,7 +636,7 @@ namespace CRUDTest
         //If you supply a Invalid person id, it should return false
         [Fact]
         public void DeletePerson_InValidPersonID()
-        { 
+        {
 
             //Act
             bool isDeleted = _personsService.DeletePerson(Guid.NewGuid());
@@ -647,4 +647,3 @@ namespace CRUDTest
         #endregion
     }
 }
-    

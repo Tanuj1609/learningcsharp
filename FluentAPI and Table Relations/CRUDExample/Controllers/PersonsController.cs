@@ -158,11 +158,11 @@ namespace CRUDExample.Controllers
         }
 
 
-            [Route("PersonsPDF")]
-            public async Task<IActionResult> PersonsPDF()
-            {
-                //Get list of persons
-                List<PersonResponse> persons = await _personsService.GetAllPersons();
+        [Route("PersonsPDF")]
+        public async Task<IActionResult> PersonsPDF()
+        {
+            //Get list of persons
+            List<PersonResponse> persons = await _personsService.GetAllPersons();
 
             //Return view as pdf
             return new ViewAsPdf("PersonsPDF", persons, ViewData)
@@ -170,6 +170,6 @@ namespace CRUDExample.Controllers
                 PageMargins = new Rotativa.AspNetCore.Options.Margins() { Top = 20, Right = 20, Bottom = 20, Left = 20 },
                 PageOrientation = Rotativa.AspNetCore.Options.Orientation.Landscape
             };
-            }
         }
-    } 
+    }
+}

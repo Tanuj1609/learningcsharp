@@ -3,16 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +46,8 @@
       "RelativeMoniker": "D:0:0:{1650F9B6-0DA1-42C9-AEDA-4DE25CB8070D}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\crudexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,14 +91,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EE41700D-4910-4971-A98D-EA27AB4C010F}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9634F9F7-BF7F-4513-93AE-6293EA5024F1}|CRUDExample\\CRUDExample.csproj|c:\\users\\tanujtewatia\\desktop\\learning\\aspdotnetcore\\fluentapi and table relations\\crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -181,36 +184,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Index.cshtml*",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-19T20:00:33.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Controllers\\PersonsController.cs",
-              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAswKsAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Controllers\\PersonsController.cs*",
+              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T08:45:08.648Z"
+              "WhenOpened": "2025-01-12T08:45:08.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
@@ -218,11 +222,12 @@
               "RelativeToolTip": "CRUDExample\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T05:31:12.206Z"
+              "WhenOpened": "2025-01-06T05:31:12.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PersonsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\PersonsDbContext.cs",
               "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
@@ -234,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewImports.cshtml",
@@ -246,287 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonsPDF.cshtml",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T11:34:03.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CRUDExample.csproj",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\CRUDExample.csproj",
-              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\CRUDExample.csproj",
-              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-12T08:32:10.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonsService.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\PersonsService.cs",
-              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\PersonsService.cs",
-              "RelativeToolTip": "Services\\PersonsService.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAjwEQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:52:20.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Entities\\Person.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Person.cs",
-              "RelativeToolTip": "Entities\\Person.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADwvykAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:01:35.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "20250119083451_TIN_Updated_CHK.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:34:51.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20250119085216_FixTaxIdentificationNumberColumn.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:52:16.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20250119092108_TaxIdentificationNumber.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:21:08.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20250119085022_TIN_Updated_Fully.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:50:22.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Country.cs",
-              "RelativeDocumentMoniker": "Entities\\Country.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Country.cs",
-              "RelativeToolTip": "Entities\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:36:22.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20250118222930_TIN_Updated.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118222930_TIN_Updated.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118222930_TIN_Updated.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118222930_TIN_Updated.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250118222930_TIN_Updated.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T22:29:30.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250118193534_InsertPerson_StoredProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T21:08:53.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CRUDTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\UnitTest1.cs",
-              "RelativeToolTip": "CRUDTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T09:02:58.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MyMath.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\MyMath.cs",
-              "RelativeDocumentMoniker": "CRUDTest\\MyMath.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\MyMath.cs",
-              "RelativeToolTip": "CRUDTest\\MyMath.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T09:08:41.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dbo.Persons.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-18T22:30:49.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250118180809_GetPersons_StoredProcedure.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
-              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
-              "RelativeToolTip": "Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T18:08:09.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PersonsServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\PersonsServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTest\\PersonsServiceTest.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\PersonsServiceTest.cs",
-              "RelativeToolTip": "CRUDTest\\PersonsServiceTest.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBsAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:55:35.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CountriesService.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\CountriesService.cs",
-              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\CountriesService.cs",
-              "RelativeToolTip": "Services\\CountriesService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwCcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T04:48:43.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\appsettings.json",
-              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\appsettings.json",
-              "RelativeToolTip": "CRUDExample\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T06:01:53.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CountriesServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CountriesServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTest\\CountriesServiceTest.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CountriesServiceTest.cs",
-              "RelativeToolTip": "CRUDTest\\CountriesServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T04:43:53.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Entities.csproj",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Entities.csproj",
-              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Entities.csproj",
-              "RelativeToolTip": "Entities\\Entities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-14T17:41:20.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PersonResponse.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T09:38:31.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Create.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Create.cshtml",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Create.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T13:54:38.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PersonAddRequest.cs",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T07:07:33.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Edit.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T23:12:15.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Delete.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Delete.cshtml",
@@ -538,7 +263,296 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:12:15.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Persons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.Persons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-19T20:29:57.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\PersonsPDF.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T11:34:03.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUDExample.csproj",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\CRUDExample.csproj",
+              "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\CRUDExample.csproj",
+              "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T08:32:10.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAjwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:52:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvykAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:01:35.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250119083451_TIN_Updated_CHK.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250119083451_TIN_Updated_CHK.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:34:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250119085216_FixTaxIdentificationNumberColumn.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250119085216_FixTaxIdentificationNumberColumn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:52:16.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250119092108_TaxIdentificationNumber.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250119092108_TaxIdentificationNumber.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:21:08.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250119085022_TIN_Updated_Fully.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250119085022_TIN_Updated_Fully.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:50:22.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:36:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250118222930_TIN_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118222930_TIN_Updated.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118222930_TIN_Updated.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118222930_TIN_Updated.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250118222930_TIN_Updated.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:29:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250118193534_InsertPerson_StoredProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250118193534_InsertPerson_StoredProcedure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:08:53.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:02:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\MyMath.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\MyMath.cs",
+              "RelativeToolTip": "CRUDTest\\MyMath.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:08:41.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Persons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonsDatabase/True/SqlTable/dbo.Persons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-18T22:30:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250118180809_GetPersons_StoredProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250118180809_GetPersons_StoredProcedure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:08:09.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTest\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBsAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:55:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:48:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T06:01:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTest\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:43:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T17:41:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:38:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T13:54:38.408Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:07:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "CountryAddRequest.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\CountryAddRequest.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryAddRequest.cs",
@@ -550,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewStart.cshtml",
@@ -562,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_GridColumnHeader.cshtml",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
@@ -574,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "PersonUpdateRequest.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
@@ -586,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IPersonsService.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\IPersonsService.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\IPersonsService.cs",
@@ -598,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "SortOrderOptions.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\Enums\\SortOrderOptions.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\Enums\\SortOrderOptions.cs",
@@ -610,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Services.csproj",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "Services\\Services.csproj",
@@ -622,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ICountriesService.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\ICountriesService.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
@@ -634,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ValidationHelper.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\Services\\Helpers\\ValidationHelper.cs",
               "RelativeDocumentMoniker": "Services\\Helpers\\ValidationHelper.cs",
@@ -646,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CRUDTest.csproj",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CRUDTest.csproj",
               "RelativeDocumentMoniker": "CRUDTest\\CRUDTest.csproj",
@@ -658,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "GenderOptions.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\Enums\\GenderOptions.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\Enums\\GenderOptions.cs",
@@ -670,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ServiceContracts.csproj",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\ServiceContracts.csproj",
               "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
@@ -682,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "CountryResponse.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\ServiceContracts\\DTO\\CountryResponse.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponse.cs",

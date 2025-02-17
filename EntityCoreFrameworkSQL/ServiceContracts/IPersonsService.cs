@@ -12,10 +12,10 @@ namespace ServiceContracts
 /// </summary>
     public interface IPersonsService
     {   /// <summary>
-    /// Adds a new person into the list of persons
-    /// /// </summary>
-    /// <param name="personAddRequest">persons to add</param>
-    /// <returns>Returns the same person details, along with the newly generated PersonID</returns>
+        /// Adds a new person into the list of persons
+        /// /// </summary>
+        /// <param name="personAddRequest">persons to add</param>
+        /// <returns>Returns the same person details, along with the newly generated PersonID</returns>
         PersonResponse AddPerson(PersonAddRequest? personAddRequest);
 
         /// <summary>
@@ -32,7 +32,7 @@ namespace ServiceContracts
         PersonResponse? GetPersonByPersonID(Guid? personID);
 
 
-        
+
         /// <summary>
         /// Returns all the person objects that matches with the given search field and search string
         /// </summary>
@@ -42,7 +42,7 @@ namespace ServiceContracts
         List<PersonResponse> GetFilteredPersons(string searchby, string? searchstring);
 
 
-        
+
         /// <summary>
         /// Returns the sorted list of persons  
         /// </summary>
@@ -50,10 +50,10 @@ namespace ServiceContracts
         /// <param name="sortBy">Name of the property(key), based on which the persons should be sorted</param>
         /// <param name="sortOrder">ASC or DESC</param>
         /// <returns>Returns sorted persons as  PersonResponse List</returns>
-        List<PersonResponse>GetSortedPersons(List<PersonResponse>allPersons, string sortBy, SortOrderOptions sortOrder );
+        List<PersonResponse> GetSortedPersons(List<PersonResponse> allPersons, string sortBy, SortOrderOptions sortOrder);
 
-        
-        
+
+
         /// <summary>
         /// Updates the specified person details based on the given person ID
         /// </summary>

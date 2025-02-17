@@ -10,8 +10,8 @@ namespace Entities
 /// person domain model class
 /// </summary>
     public class Person
-    { 
-        
+    {
+
         // THIS KEY ATTRIBUTE IS USED TO DECLARE THE COUNTRY ID AS KEY
         [Key]
         public Guid PersonID { get; set; }
@@ -28,7 +28,7 @@ namespace Entities
         //LIMITING THE STRING LENGTH BY 10
         [StringLength(10)]
         public string? Gender { get; set; }
-        public Guid? CountryID {get; set;}
+        public Guid? CountryID { get; set; }
 
         //LIMITING THE STRING LENGTH BY 200
         [StringLength(200)]
@@ -36,7 +36,7 @@ namespace Entities
 
         public bool RecieveNewsLetters { get; set; }
 
-        
+
         //HERE THE TIN STANDS FOR TAX IDENTIFICATION NUMBER
         //public string? TIN { get; set; }    
     }

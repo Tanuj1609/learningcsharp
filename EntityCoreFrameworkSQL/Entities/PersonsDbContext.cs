@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore;
 namespace Entities
 {
     //DBCONTEXT IS USED FOR DECLARING A CLASS AS A TABLE USING ENTITYCORE FRAMEWORK
-    public  class PersonsDbContext: DbContext
-    { 
+    public class PersonsDbContext : DbContext
+    {
         public PersonsDbContext(DbContextOptions options) : base(options) { }
         //
         public DbSet<Person> Persons { get; set; }

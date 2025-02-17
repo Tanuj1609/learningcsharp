@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m6Ix1FxA4+E=",
+  "dgSpecHash": "s4nDWCsjrBw=",
   "success": true,
   "projectFilePath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI and Table Relations\\CRUDTest\\CRUDTest.csproj",
   "expectedPackageFiles": [
@@ -74,7 +74,10 @@
     "C:\\Users\\TanujTewatia\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
     "C:\\Users\\TanujTewatia\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
     "C:\\Users\\TanujTewatia\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
-    "C:\\Users\\TanujTewatia\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.1\\xunit.runner.visualstudio.3.0.1.nupkg.sha512"
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.1\\xunit.runner.visualstudio.3.0.1.nupkg.sha512",
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }

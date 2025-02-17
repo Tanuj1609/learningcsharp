@@ -32,9 +32,9 @@ namespace Services
             return personResponse;
         }
         public PersonResponse AddPerson(PersonAddRequest? personAddRequest)
-        {   
+        {
             //check if person add request is not null
-            if(personAddRequest == null)
+            if (personAddRequest == null)
             {
                 throw new ArgumentNullException(nameof(personAddRequest));
             }
@@ -60,7 +60,7 @@ namespace Services
         }
 
         public List<PersonResponse> GetAllPersons()
-        {   
+        {
             //SELECT * from Persons 
             //METHOD FOR GETTING ALL PERSONS AS A LIST USING CODE:
 
@@ -73,14 +73,14 @@ namespace Services
         public PersonResponse? GetPersonByPersonID(Guid? personID)
         {
             if (personID == null)
-            
+
                 return null;
 
-            Person? person = _db.Persons.FirstOrDefault(temp=> temp.PersonID == personID);
+            Person? person = _db.Persons.FirstOrDefault(temp => temp.PersonID == personID);
 
-                if (person == null)
-                
-                    return null;
+            if (person == null)
+
+                return null;
             return ConvertPersonToPersonResponse(person);
 
 
@@ -98,8 +98,8 @@ namespace Services
             {
                 case nameof(PersonResponse.PersonName):
                     matchingPersons = allPersons.Where(temp =>
-                    (!string.IsNullOrEmpty(temp.PersonName)?
-                    temp.PersonName.Contains(searchString, StringComparison.OrdinalIgnoreCase):true)).ToList();
+                    (!string.IsNullOrEmpty(temp.PersonName) ?
+                    temp.PersonName.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();
                     break;
 
                 case nameof(PersonResponse.Email):
@@ -110,7 +110,7 @@ namespace Services
 
                 case nameof(PersonResponse.DateOfBirth):
                     matchingPersons = allPersons.Where(temp =>
-                    (temp.DateOfBirth!= null) ?
+                    (temp.DateOfBirth != null) ?
                     temp.DateOfBirth.Value.ToString("dd mm yyyy").Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList();
                     break;
 
@@ -140,7 +140,7 @@ namespace Services
 
         public List<PersonResponse> GetSortedPersons(List<PersonResponse> allPersons, string sortBy, SortOrderOptions sortOrder)
         {
-            if(string.IsNullOrEmpty(sortBy))
+            if (string.IsNullOrEmpty(sortBy))
                 return allPersons;
 
             List<PersonResponse> sortedPersons = (sortBy, sortOrder)
@@ -170,9 +170,9 @@ namespace Services
 
                 (nameof(PersonResponse.RecieveNewsLetters), SortOrderOptions.ASC) => allPersons.OrderBy(temp => temp.RecieveNewsLetters, StringComparer.OrdinalIgnoreCase).ToList(),
                 (nameof(PersonResponse.RecieveNewsLetters), SortOrderOptions.DESC) => allPersons.OrderByDescending(temp => temp.RecieveNewsLetters, StringComparer.OrdinalIgnoreCase).ToList(),
-                
+
                 _ => allPersons
-               
+
             };
             return sortedPersons;
         }
@@ -180,7 +180,7 @@ namespace Services
         public PersonResponse UpdatePerson(PersonUpdateRequest? personUpdateRequest)
         {
             if (personUpdateRequest == null)
-            throw new ArgumentNullException(nameof(Person));
+                throw new ArgumentNullException(nameof(Person));
 
             //validation
 
@@ -212,7 +212,7 @@ namespace Services
             if (personID == null) throw new ArgumentNullException(nameof(personID));
 
             Person? person = _db.Persons.FirstOrDefault(temp => temp.PersonID == personID);
-            if(person == null)
+            if (person == null)
             {
                 return false;
             }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8oFe2SjGOA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\SolidPrinciples\\SolidPrinciples\\SolidPrinciples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\TanujTewatia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -19,6 +19,8 @@ if (builder.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
+//BELOW IS THE METHOD FOR ADDING A ROTATIVA FILE
+Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", wkhtmltopdfRelativePath: "Rotativa");
 app.UseStaticFiles();
 app.UseRouting();
 app.MapControllers();

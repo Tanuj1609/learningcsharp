@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IQ38/thm2RNWdkpNOul5GELr/hy2238pMqtAaLCx6a4=",
+  "Hash": "IJ7dC16dVSnI/UcsdNYkqi+D7gKqOhomP/SzIZC1LgM=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUDExample\\wwwroot",
       "Source": "CRUDExample",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\Logo.png.png",
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Logo.png.png",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Logo.png#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,31 @@
       "OriginalItemSpec": "wwwroot\\Logo.png.png"
     },
     {
-      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cuquy3615b",
+      "Integrity": "ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -125,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "jquery.min.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -162,7 +183,7 @@
     },
     {
       "Route": "jquery.min.o1o13a6vjx.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -207,7 +228,7 @@
     },
     {
       "Route": "jquery.validate.min.ag7o75518u.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -252,7 +273,7 @@
     },
     {
       "Route": "jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -289,7 +310,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -334,7 +355,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -371,7 +392,7 @@
     },
     {
       "Route": "Logo.png.7agmk74poe.png",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\Logo.png.png",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Logo.png.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -416,7 +437,7 @@
     },
     {
       "Route": "Logo.png.png",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\Logo.png.png",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Logo.png.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -452,8 +473,90 @@
       ]
     },
     {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 00:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2020 00:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -490,7 +593,7 @@
     },
     {
       "Route": "StyleSheet.zsgxx0ffs5.css",
-      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\FluentAPI\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\EntityCoreFrameworkSQL\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

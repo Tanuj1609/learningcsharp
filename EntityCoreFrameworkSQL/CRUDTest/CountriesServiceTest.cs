@@ -140,20 +140,20 @@ namespace CRUDTest
         [Fact]
 
         // If we supply a valid country ID, it should return the matching country details as country response object
-        
+
         public void GetCountryByCountryID_ValidCountryID()
         {
             //Arrange
-            CountryAddRequest? country_add_request = new CountryAddRequest() { CountryName = "China"};
+            CountryAddRequest? country_add_request = new CountryAddRequest() { CountryName = "China" };
             CountryResponse country_response_from_add = _countriesService.AddCountry(country_add_request);
 
 
             //Act
-            CountryResponse? country_response_from_get =_countriesService.GetCountryByCountryID(country_response_from_add.CountryID);
+            CountryResponse? country_response_from_get = _countriesService.GetCountryByCountryID(country_response_from_add.CountryID);
 
             //Assert
             Assert.Equal(country_response_from_add, country_response_from_get);
-        }    
-        #endregion  
-    } 
+        }
+        #endregion
+    }
 }

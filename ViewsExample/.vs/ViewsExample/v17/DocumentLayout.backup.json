@@ -47,25 +47,23 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewsExample\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "ViewsExample\\Controllers\\HomeController.cs*",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewsExample\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:47:08.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:47:08.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ViewsExample",
+              "Title": "ViewsExample.csproj",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\ViewsExample.csproj",
               "RelativeDocumentMoniker": "ViewsExample\\ViewsExample.csproj",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\ViewsExample.csproj*",
-              "RelativeToolTip": "ViewsExample\\ViewsExample.csproj*",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\ViewsExample.csproj",
+              "RelativeToolTip": "ViewsExample\\ViewsExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T13:46:24.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:46:24.172Z"
             },
             {
               "$type": "Document",
@@ -73,12 +71,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Program.cs",
               "RelativeDocumentMoniker": "ViewsExample\\Program.cs",
-              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Program.cs*",
-              "RelativeToolTip": "ViewsExample\\Program.cs*",
+              "ToolTip": "C:\\Users\\TanujTewatia\\Desktop\\learning\\aspdotnetcore\\ViewsExample\\ViewsExample\\Program.cs",
+              "RelativeToolTip": "ViewsExample\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:37:00.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:37:00.327Z"
             }
           ]
         }
